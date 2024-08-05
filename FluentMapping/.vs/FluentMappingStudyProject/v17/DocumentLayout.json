@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\data\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:data\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\fluentmapping\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684976CC-6FE3-4FD9-A095-CC6391784182}|FluentMappingStudyProject.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryMap.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Data\\Mappings\\CategoryMap.cs",
+              "RelativeDocumentMoniker": "Data\\Mappings\\CategoryMap.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Data\\Mappings\\CategoryMap.cs",
+              "RelativeToolTip": "Data\\Mappings\\CategoryMap.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:35:39.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:12:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:40:40.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:41:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:40:35.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:15:53.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:41:13.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:40:54.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

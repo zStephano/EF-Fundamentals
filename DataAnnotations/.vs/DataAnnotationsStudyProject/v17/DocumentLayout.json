@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotationsStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotationsStudyProject.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotationsStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotationsStudyProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotationsStudyProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotationsStudyProject.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|solutionrelative:models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosef\\dataannotations\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D06231-5937-4048-A71B-135DD562BA66}|DataAnnotations.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:12:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:12:35.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:12:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:11:25.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\PostTag.cs",
+              "RelativeDocumentMoniker": "Models\\PostTag.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\PostTag.cs",
+              "RelativeToolTip": "Models\\PostTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:11:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:11:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:11:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:11:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\DataAnnotations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:10:48.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

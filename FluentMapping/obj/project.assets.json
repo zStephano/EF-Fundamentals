@@ -4073,11 +4073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\FluentMappingStudyProject.csproj",
+      "projectUniqueName": "C:\\dev\\Backend-Projects\\CSharp\\EF-Fundamentals\\FluentMapping\\FluentMappingStudyProject.csproj",
       "projectName": "FluentMappingStudyProject",
-      "projectPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\FluentMappingStudyProject.csproj",
+      "projectPath": "C:\\dev\\Backend-Projects\\CSharp\\EF-Fundamentals\\FluentMapping\\FluentMappingStudyProject.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\obj\\",
+      "outputPath": "C:\\dev\\Backend-Projects\\CSharp\\EF-Fundamentals\\FluentMapping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

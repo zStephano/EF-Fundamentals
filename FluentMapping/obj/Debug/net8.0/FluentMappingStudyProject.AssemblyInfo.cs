@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FluentMappingStudyProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b51e7e9bb515068c2d27a5fa6d658bcf60d1e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde5aa31bf281711640f0e9a0a003d4b7e9b4ebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FluentMappingStudyProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FluentMappingStudyProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

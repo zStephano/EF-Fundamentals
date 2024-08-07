@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tnWy9Tqn9Yc=",
+  "dgSpecHash": "/7VBQLu8djI=",
   "success": true,
-  "projectFilePath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosEF\\FluentMapping\\FluentMappingStudyProject.csproj",
+  "projectFilePath": "C:\\dev\\Backend-Projects\\CSharp\\EF-Fundamentals\\FluentMapping\\FluentMappingStudyProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

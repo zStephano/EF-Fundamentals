@@ -17,7 +17,7 @@ namespace FluentMappingStudyProject.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             => optionsBuilder.UseSqlServer(
-                "Server=localhost,1433;Database=FluentBlog;User ID=sa;Password=GStephano@1998*;TrustServerCertificate=true");
+                "Server=localhost,1433;Database=FluentBlog;User ID=sa;Password=1q2w3e4r@#$;TrustServerCertificate=true");
         //options.LogTo(Console.WriteLine); //// Modo de Debug do Entity Framework
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

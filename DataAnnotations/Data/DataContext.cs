@@ -19,7 +19,7 @@ namespace DataAnnotationsStudyProject.Data
         //public DbSet<UserRole> UserRoles{ get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Server=localhost,1433;Database=Blog;User ID=sa;Password=GStephano@1998*;TrustServerCertificate=true");
+            => optionsBuilder.UseSqlServer("Server=localhost,1433;Database=Blog;User ID=sa;Password=1q2w3e4r@#$;TrustServerCertificate=true");
         //options.LogTo(Console.WriteLine); //// Modo de Debug do Entity Framework
     }
 }
